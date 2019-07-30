@@ -4,7 +4,7 @@ import (
 	"context"
 	"net/url"
 
-	gphotos "github.com/gphotosuploader/google-photos-api-client-go/lib-gphotos"
+	gphotos "github.com/mtrung/google-photos-api-client-go/lib-gphotos"
 	"github.com/hashicorp/go-multierror"
 	oauth2ns "github.com/nmrshll/oauth2-noserver"
 	"github.com/palantir/stacktrace"

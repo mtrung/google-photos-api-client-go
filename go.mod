@@ -1,4 +1,4 @@
-module github.com/gphotosuploader/google-photos-api-client-go
+module github.com/mtrung/google-photos-api-client-go
 
 go 1.12
 
